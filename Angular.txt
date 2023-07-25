@@ -1,10 +1,6 @@
 instalar angular no pc 
 npm install -g @angular/cli
 
-instalar na pasta que ficará o projeto
-- npm install angular --global
-
 iniciar projeto
-ng new angular-iniciante ** no meu pc não funcionou
+ng new nomeprojeto
 
-npm init @angular nomedomeuprojeto -- esse funcionoun
